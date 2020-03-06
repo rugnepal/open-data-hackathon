@@ -1,18 +1,18 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1583505537853.000,
-    "dirty" : true,
+    "created" : 1583518245831.000,
+    "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
     "hash" : "0",
-    "id" : "ADE74D4C",
-    "lastKnownWriteTime" : 1583517542,
-    "last_content_update" : 1583517559016,
-    "path" : "~/Desktop/open-data-hackathon/data/australian_fire.R",
-    "project_path" : "data/australian_fire.R",
+    "id" : "CD0743B0",
+    "lastKnownWriteTime" : 1583518357,
+    "last_content_update" : 1583518357904,
+    "path" : "~/Desktop/open-data-hackathon/australian_fire/Readme.md",
+    "project_path" : "australian_fire/Readme.md",
     "properties" : {
-        "cursorPosition" : "0,0",
+        "cursorPosition" : "2,160",
         "scrollLine" : "0",
         "tempName" : "Untitled1"
     },
@@ -22,5 +22,5 @@
     "relative_order" : 1,
     "source_on_save" : false,
     "source_window" : "",
-    "type" : "r_source"
+    "type" : "markdown"
 }
