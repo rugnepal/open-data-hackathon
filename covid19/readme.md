@@ -8,6 +8,7 @@ This is the data repository for the 2019 Novel Coronavirus Visual Dashboard oper
 `
 raw_covid19_confirmed <- readr::read_csv("http://bit.ly/covid19-confirmed")
 `
+
 `
 raw_covid19_deaths <- readr::read_csv("http://bit.ly/covid19-deaths")
 `
